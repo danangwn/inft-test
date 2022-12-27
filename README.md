@@ -58,6 +58,9 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
+# api documentation
+https://documenter.getpostman.com/view/4645999/2s8Z6x2tfr
 ```
 
 ## Support
